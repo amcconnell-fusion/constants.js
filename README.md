@@ -176,7 +176,7 @@ gulp karma
 ## Contributors
 
 [![Fusion Alliance Logo](https://avatars0.githubusercontent.com/u/1154219?v=3&u=e1451e6a65343331369d53a2b6e0c7046c2cc810&s=60)](https://github.com/FusionAlliance)
-**fasec** is a product of Fusion Alliance &copy; 2014-2015.
+**constants.js** is a product of Fusion Alliance &copy; 2014-2015.
 
 + [Ray Clannan](https://github.com/rclanan) (Author)
 
