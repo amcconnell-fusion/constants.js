@@ -179,6 +179,7 @@ gulp karma
 **constants.js** is a product of Fusion Alliance &copy; 2014-2015.
 
 + [Ray Clannan](https://github.com/rclanan) (Author)
++ [Jim Kelly](https://github.com/ProgrammerWithoutaName)
 
 ## LICENSE
 
